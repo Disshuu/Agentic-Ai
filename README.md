@@ -22,6 +22,7 @@ https://drive.google.com/file/d/1MKzz7gcuGyptOUsH2TFuOor0WnbXPvsZ/view?usp=shari
 ## Features
 Agent-based architecture
 Async pipeline with streaming
+Message queue using Redis (with fallback)
 Semantic search using FAISS
 Structured output (Summary, Insights, Conclusion)
 Retry & failure handling
@@ -30,13 +31,14 @@ Retry & failure handling
 Upload document
 Text → chunks → embeddings
 Stored in FAISS
-Task runs through:
-  Retriever → fetch data
-  Analyzer → extract insights
-  Writer → generate report
+Task flows through queue:
+Retriever → fetch data
+Analyzer → extract insights
+Writer → generate report
 
 ## Tech Stack
-Python • FastAPI • FAISS • Sentence Transformers • AsyncIO
+
+Python • FastAPI • FAISS • Sentence Transformers • AsyncIO • Redis
 
 ## Limitations
 Rule-based analyzer (not fully intelligent)
@@ -48,4 +50,3 @@ Distributed queues (Kafka/RabbitMQ)
 Frontend UI
 
 
-H --> A
