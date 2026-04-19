@@ -46,7 +46,9 @@ Local system (not distributed)
 
 ## Future Scope
 LLM integration
+
 Distributed queues (Kafka/RabbitMQ)
+
 Frontend UI
 
 
