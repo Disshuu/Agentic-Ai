@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1DdPE5C5HjODOSUboyKgHieAM6CfqCJ6c/view?usp=shari
 https://drive.google.com/file/d/1MKzz7gcuGyptOUsH2TFuOor0WnbXPvsZ/view?usp=sharing
 
 ## System Design Document
-https://drive.google.com/file/d/1AmCwPeTIJFWTiwB1c9IekilYaHYGjCg1/view?usp=sharing
+https://drive.google.com/file/d/1Jlm6w-aUBjinLmU8h7UolnlKDwJFCR0Y/view?usp=sharing
 
 ## Features
 Agent-based architecture
