@@ -13,10 +13,10 @@ It uses **async execution + RAG (FAISS)** to process documents and generate stru
 ## Video Demo
  https://drive.google.com/file/d/17VFMHoLYmJJYTtMhyGP4eB3FKfW_7mJg/view?usp=sharing
 
-##  Architecture
+##  Architecture Diagram
 https://drive.google.com/file/d/1DdPE5C5HjODOSUboyKgHieAM6CfqCJ6c/view?usp=sharing
 
-## Pipeline Flow
+## Pipeline Flow Diagram
 https://drive.google.com/file/d/1MKzz7gcuGyptOUsH2TFuOor0WnbXPvsZ/view?usp=sharing
 
 ## Features
